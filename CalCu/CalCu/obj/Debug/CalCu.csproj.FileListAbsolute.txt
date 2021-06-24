@@ -1,0 +1,10 @@
+C:\Users\Ranolios\source\repos\CalCu\CalCu\bin\Debug\CalCu.exe.config
+C:\Users\Ranolios\source\repos\CalCu\CalCu\bin\Debug\CalCu.exe
+C:\Users\Ranolios\source\repos\CalCu\CalCu\bin\Debug\CalCu.pdb
+C:\Users\Ranolios\source\repos\CalCu\CalCu\obj\Debug\CalCu.csprojAssemblyReference.cache
+C:\Users\Ranolios\source\repos\CalCu\CalCu\obj\Debug\CalCu.Form1.resources
+C:\Users\Ranolios\source\repos\CalCu\CalCu\obj\Debug\CalCu.Properties.Resources.resources
+C:\Users\Ranolios\source\repos\CalCu\CalCu\obj\Debug\CalCu.csproj.GenerateResource.cache
+C:\Users\Ranolios\source\repos\CalCu\CalCu\obj\Debug\CalCu.csproj.CoreCompileInputs.cache
+C:\Users\Ranolios\source\repos\CalCu\CalCu\obj\Debug\CalCu.exe
+C:\Users\Ranolios\source\repos\CalCu\CalCu\obj\Debug\CalCu.pdb
